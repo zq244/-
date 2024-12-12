@@ -30,7 +30,7 @@
     }
   ],
   "protection": {
-    "allowedGuildId": "server_id",
+    "allowedGuildId": "1316424348940238959",
     "logChannelId": "channel_id",
     "whitelistRoles": [
       "ROLE_ID_1",
